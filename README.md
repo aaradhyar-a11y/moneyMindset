@@ -14,11 +14,4 @@ Citation of AI: I have used ChatGPT:
 3. In the javascript file: data.js: To create the scenarios and life events.
 
 Progress:
-Started coding
-Had too many bugs
-Took help from Chatgpt to fix small bugs
-Rewrote code 
-Added scenarios and more code
-Found bugs
-Used AI again to fix bugs
-Website finally started working
+I first created the home page where i have the website name, about it, the instructions and the start button. it took me some time to get it working as there were a lot of bugs, so I used ChatGPT to fix my bugs and then i moved on to writing my scenarios, life events, buttons, and panel. That took me a long time and i had a lot of bugs so I ended up using ChatGPT jsut to fix my bugs, then i continued writing the code. I tested it a lot of times, fixed bugs and then finished my website.
