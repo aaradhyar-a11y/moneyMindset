@@ -12,3 +12,13 @@ Citation of AI: I have used ChatGPT:
 1. In my javascript file: script.js: In the background code of the button to change the page.
 2. In the CSS file: style.css: For the top-right panel, coding it's position.
 3. In the javascript file: data.js: To create the scenarios and life events.
+
+Progress:
+Started coding
+Had too many bugs
+Took help from Chatgpt to fix small bugs
+Rewrote code 
+Added scenarios and more code
+Found bugs
+Used AI again to fix bugs
+Website finally started working
